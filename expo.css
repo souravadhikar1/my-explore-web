@@ -1,0 +1,23 @@
+.section-title{
+padding-bottom: 320px;
+font-size:200% ;
+background-image: url("images/banner/banner1.png");
+background-size: cover;
+background-repeat: no-repeat;
+}
+
+.section-description{
+    font-size: 20px;
+    margin-top: 0px;
+    padding: 0px;
+}
+
+.button{
+    width: 150px;
+    height: 70px;
+    background-color: orangered;
+    margin-left: 900px;
+}
+#btn-color{
+    color: white;
+}
