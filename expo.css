@@ -75,3 +75,101 @@ color: #707070;
     font-family: 'Work Sans';
     color: #737272;
 }
+
+.final-step{
+    
+    background-image: url("images/watch.png");
+    background-repeat: no-repeat;
+    background-position: center;
+    
+    
+    padding: 400px;
+}
+.final-text{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 50px;
+    color:yellowgreen
+    
+}
+.final-btn{
+width: 200px;
+height: 70px;
+background-color: white
+}
+.btn-text{
+
+color:orangered;
+font-size: 20px;
+}
+
+.final-done{
+    display: flex;
+}
+
+.final-content{
+    display: flex;
+    padding-left: 100px;
+    gap: 500px
+    
+}
+
+.content-sub{
+    font-size: 300%;
+    color: yellow;
+    font-family: 'Open Sans', sans-serif
+    
+}
+#content-sub{
+    font-size: 200%;
+    color: aqua;
+}
+
+/* contact style */
+.match{
+    display: flex;
+    gap: 100px;
+    background: black;
+    padding: 130px 200px;
+    
+}
+.match .section-match{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 300%;
+    color: white;
+    text-align: left;
+
+}
+
+#full-button{
+    background: red;
+    margin-top: 10px;
+}
+
+#love{
+    padding: 30px 80px;
+}
+
+.button-text{
+    color: azure;
+}
+
+.lost{
+    font-family: 'Moon Dance', cursive;
+    color: white;
+    font-size: 200%;
+}
+
+.picture-hub{
+padding: 20px 20px;
+}
+
+.stop{
+    font-family: 'Rubik Bubbles', cursive;
+    color: white;
+}
+
+.line{
+    font-family: 'Open Sans', sans-serif;
+    color: white;
+    font-size: 20px;
+}
