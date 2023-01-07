@@ -1,9 +1,10 @@
 .section-title{
-padding-bottom: 320px;
+    padding-bottom: 320px;
+    background-image: url("images/banner/banner1.png");
+    background-size: cover;
+    background-repeat: no-repeat;
 font-size:200% ;
-background-image: url("images/banner/banner1.png");
-background-size: cover;
-background-repeat: no-repeat;
+
 }
 
 .section-description{
@@ -20,4 +21,57 @@ background-repeat: no-repeat;
 }
 #btn-color{
     color: white;
+}
+
+.banner{
+    padding-top: 500px;
+    padding-left: 500px;
+    display: flex;
+    align-items: center;
+    margin: 0 200px;
+}
+.next-level{
+    font-family: 'Rowdies', cursive;
+    font-size: 200%;
+}
+.about-banner{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 20px;
+}
+.banner-description{
+    display: flex;
+    font-weight: 400;
+font-size: 18px;
+color: #707070;
+}
+#banner-picture{
+    background: lightblue;
+    border-radius: 90%;
+    background-position: bottom;   
+}
+
+.icon-item{
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 50px;
+}
+
+.about{
+    display: flex;
+    gap: 30px;
+}
+
+.icon-section{
+    display: flex;
+    gap: 100px;
+    padding-left: 100px;
+}
+
+.icon-title{
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+}
+.icon-next{
+    font-family: 'Work Sans';
+    color: #737272;
 }
